@@ -38,14 +38,24 @@ W jedynym wierszu wyjścia ma się pojawić jedna liczba całkowita oznaczająca
 przychód jaki hotel może uzyskać z realizacji rezerwacji.
 
 **Przykład**
+
+
 Wejście:
+
 5 //5 rezerwacji
+
 9 11 2 //pierwsza rezerwacja od dnia 9 do dnia 11 (zapłata 2)
+
 1 5 4
+
 1 8 7
+
 5 9 4
+
 6 10 5
+
 Wyjście:
+
 18 //zysk 18 (apartament nr 1: rezerwacje nr 1 i 3, apartament nr 2: rezerwacje nr 2 i 5)
 
 **Wersja za 60% punktów – jest tylko 1 apartament, mogą istnieć rezerwacje
